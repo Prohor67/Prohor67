@@ -4,7 +4,7 @@
 🚀 In the exciting learning phase of my journey through the world of technology.
 
 ---
-[![Prohor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prohor67)](https://github.com/anuraghazra/github-readme-stats)
+[![Prohor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prohor67&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 What I'm Working On
 - Building projects in **Machine Learning**, **Deep Learning**, and **Computer Vision**
