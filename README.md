@@ -1,1 +1,33 @@
+### 👋 Hello there, I'm PROHOR!
 
+🎓 I'm currently a Computer Science & Engineering student at **BRAC University**, Bangladesh.  
+🚀 In the exciting learning phase of my journey through the world of technology.
+
+---
+
+## 🔭 What I'm Working On
+- Building projects in **Machine Learning**, **Deep Learning**, and **Computer Vision**
+- Exploring **MERN Stack** to strengthen my web development skills
+- Diving into the mind-bending world of **Quantum Computing**
+- Creating tech content to simplify complex topics for learners
+
+---
+
+## 🌱 Currently Learning
+- 📊 Advanced ML/DL techniques and frameworks (PyTorch, TensorFlow)
+- 🌐 Full-Stack Web Development with the MERN Stack
+- 🧠 Quantum Computing basics & algorithms
+- 📸 Real-time computer vision applications
+- 📊 Data Analytics
+  
+
+---
+
+## 🎥 Content Creation
+I make tech content for **learners and enthusiasts**:
+- 📌 Facebook: Sharing intuitive posts, explainers, and tutorials
+- 🎬 YouTube: Creating videos on ML, AI, programming, and project demos
+
+> My goal is to empower others to **learn by building** and to break down complex concepts into bite-sized learning!
+
+---
