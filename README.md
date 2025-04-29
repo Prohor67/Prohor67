@@ -1,9 +1,10 @@
 ### 👋 Hello there, I'm PROHOR!
 
-🎓 I'm currently a Computer Science & Engineering student at **BRAC University**, Bangladesh.  
+🎓 I'm currently a Computer Science & Engineering student at **[BRAC University][https://www.bracu.ac.bd/]**, Bangladesh.  
 🚀 In the exciting learning phase of my journey through the world of technology.
 
 ---
+[![Prohor's Github Stats](https://github-readme-stats.vercel.app/api?username=Prohor67&show_icons=true&theme=radical&hide rank=false)] 
 
 ## 🔭 What I'm Working On
 - Building projects in **Machine Learning**, **Deep Learning**, and **Computer Vision**
@@ -25,8 +26,8 @@
 
 ## 🎥 Content Creation
 I make tech content for **learners and enthusiasts**:
-- 📌 Facebook: Sharing intuitive posts, explainers, and tutorials
-- 🎬 YouTube: Creating videos on ML, AI, programming, and project demos
+- 📌 [Facebook][https://www.facebook.com/profile.php?id=61557415031735#]: Sharing intuitive posts, explainers, and tutorials
+- 🎬 [YouTube][https://www.youtube.com/@md.sybeenabrarprohor1302]: Creating videos on ML, AI, programming, and project demos
 
 > My goal is to empower others to **learn by building** and to break down complex concepts into bite-sized learning!
 
