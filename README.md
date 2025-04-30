@@ -15,4 +15,10 @@
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Eigen values, Eigen Vectors and PCA](https://ytcards.demolab.com/?id=Saej5zYmoas&title=Eigen+values%2C+Eigen+Vectors+and+PCA&lang=en&timestamp=1740940172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Eigen values, Eigen Vectors and PCA")](https://www.youtube.com/watch?v=Saej5zYmoas)
+[![LLM and ML](https://ytcards.demolab.com/?id=VpLKc5n8_K8&title=LLM+and+ML&lang=en&timestamp=1724507074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LLM and ML")](https://www.youtube.com/watch?v=VpLKc5n8_K8)
+[![Basics of Seaborn](https://ytcards.demolab.com/?id=z-PYqtLtdq8&title=Basics+of+Seaborn&lang=en&timestamp=1721111120&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Basics of Seaborn")](https://www.youtube.com/watch?v=z-PYqtLtdq8)
+[![Basics of Scikit-Learn](https://ytcards.demolab.com/?id=pB-CYbixPQI&title=Basics+of+Scikit-Learn&lang=en&timestamp=1720888384&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Basics of Scikit-Learn")](https://www.youtube.com/watch?v=pB-CYbixPQI)
+[![Pandas basics 03](https://ytcards.demolab.com/?id=gRt4vbt94NE&title=Pandas+basics+03&lang=en&timestamp=1720874736&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pandas basics 03")](https://www.youtube.com/watch?v=gRt4vbt94NE)
+[![Pandas Basics 02](https://ytcards.demolab.com/?id=joXMmO8BpYs&title=Pandas+Basics+02&lang=en&timestamp=1720857520&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pandas Basics 02")](https://www.youtube.com/watch?v=joXMmO8BpYs)
 <!-- END YOUTUBE-CARDS -->
